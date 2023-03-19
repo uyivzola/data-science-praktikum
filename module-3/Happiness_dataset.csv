@@ -1,0 +1,160 @@
+2015,2015,2015,2016,2016,2016,2017,2017,2017,2018,2018,2018,2019,2019,2019
+Country,Happiness Rank,Happiness Score,Country,Happiness Rank,Happiness Score,Country,Happiness Rank,Happiness Score,Country,Happiness Rank,Happiness Score,Country,Happiness Rank,Happiness Score
+Switzerland,1,7.587,Denmark,1.0,7.526,Norway,1.0,7.53700017929077,Finland,1.0,7.632,Finland,1.0,7.769
+Iceland,2,7.561,Switzerland,2.0,7.509,Denmark,2.0,7.52199983596802,Norway,2.0,7.594,Denmark,2.0,7.6
+Denmark,3,7.527,Iceland,3.0,7.501,Iceland,3.0,7.50400018692017,Denmark,3.0,7.555,Norway,3.0,7.554
+Norway,4,7.522,Norway,4.0,7.498,Switzerland,4.0,7.49399995803833,Iceland,4.0,7.495,Iceland,4.0,7.494
+Canada,5,7.427,Finland,5.0,7.413,Finland,5.0,7.4689998626709,Switzerland,5.0,7.487,Netherlands,5.0,7.488
+Finland,6,7.406,Canada,6.0,7.404,Netherlands,6.0,7.3769998550415,Netherlands,6.0,7.441,Switzerland,6.0,7.48
+Netherlands,7,7.378,Netherlands,7.0,7.339,Canada,7.0,7.31599998474121,Canada,7.0,7.328,Sweden,7.0,7.343
+Sweden,8,7.364,New Zealand,8.0,7.334,New Zealand,8.0,7.31400012969971,New Zealand,8.0,7.324,New Zealand,8.0,7.307
+New Zealand,9,7.286,Australia,9.0,7.313,Sweden,9.0,7.28399991989136,Sweden,9.0,7.314,Canada,9.0,7.278
+Australia,10,7.284,Sweden,10.0,7.291,Australia,10.0,7.28399991989136,Australia,10.0,7.272,Austria,10.0,7.246
+Israel,11,7.278,Israel,11.0,7.267,Israel,11.0,7.21299982070923,United Kingdom,11.0,7.19,Australia,11.0,7.228
+Costa Rica,12,7.226,Austria,12.0,7.119,Costa Rica,12.0,7.0789999961853,Austria,12.0,7.139,Costa Rica,12.0,7.167
+Austria,13,7.2,United States,13.0,7.104,Austria,13.0,7.00600004196167,Costa Rica,13.0,7.072,Israel,13.0,7.139
+Mexico,14,7.187,Costa Rica,14.0,7.087,United States,14.0,6.99300003051758,Ireland,14.0,6.977,Luxembourg,14.0,7.09
+United States,15,7.119,Puerto Rico,15.0,7.039,Ireland,15.0,6.97700023651123,Germany,15.0,6.965,United Kingdom,15.0,7.054
+Brazil,16,6.983,Germany,16.0,6.994,Germany,16.0,6.95100021362305,Belgium,16.0,6.927,Ireland,16.0,7.021
+Luxembourg,17,6.946,Brazil,17.0,6.952,Belgium,17.0,6.89099979400635,Luxembourg,17.0,6.91,Germany,17.0,6.985
+Ireland,18,6.94,Belgium,18.0,6.929,Luxembourg,18.0,6.86299991607666,United States,18.0,6.886,Belgium,18.0,6.923
+Belgium,19,6.937,Ireland,19.0,6.907,United Kingdom,19.0,6.71400022506714,Israel,19.0,6.814,United States,19.0,6.892
+United Arab Emirates,20,6.901,Luxembourg,20.0,6.871,Chile,20.0,6.65199995040894,United Arab Emirates,20.0,6.774,Czech Republic,20.0,6.852
+United Kingdom,21,6.867,Mexico,21.0,6.778,United Arab Emirates,21.0,6.64799976348877,Czech Republic,21.0,6.711,United Arab Emirates,21.0,6.825
+Oman,22,6.853,Singapore,22.0,6.739,Brazil,22.0,6.63500022888184,Malta,22.0,6.627,Malta,22.0,6.726
+Venezuela,23,6.81,United Kingdom,23.0,6.725,Czech Republic,23.0,6.60900020599365,France,23.0,6.489,Mexico,23.0,6.595
+Singapore,24,6.798,Chile,24.0,6.705,Argentina,24.0,6.59899997711182,Mexico,24.0,6.488,France,24.0,6.592
+Panama,25,6.786,Panama,25.0,6.701,Mexico,25.0,6.57800006866455,Chile,25.0,6.476,Taiwan,25.0,6.446
+Germany,26,6.75,Argentina,26.0,6.65,Singapore,26.0,6.57200002670288,Taiwan,26.0,6.441,Chile,26.0,6.444
+Chile,27,6.67,Czech Republic,27.0,6.596,Malta,27.0,6.52699995040894,Panama,27.0,6.43,Guatemala,27.0,6.436
+Qatar,28,6.611,United Arab Emirates,28.0,6.573,Uruguay,28.0,6.4539999961853,Brazil,28.0,6.419,Saudi Arabia,28.0,6.375
+France,29,6.575,Uruguay,29.0,6.545,Guatemala,29.0,6.4539999961853,Argentina,29.0,6.388,Qatar,29.0,6.374
+Argentina,30,6.574,Malta,30.0,6.488,Panama,30.0,6.4520001411438,Guatemala,30.0,6.382,Spain,30.0,6.354
+Czech Republic,31,6.505,Colombia,31.0,6.481,France,31.0,6.44199991226196,Uruguay,31.0,6.379,Panama,31.0,6.321
+Uruguay,32,6.485,France,32.0,6.478,Thailand,32.0,6.42399978637695,Qatar,32.0,6.374,Brazil,32.0,6.3
+Colombia,33,6.477,Thailand,33.0,6.474,Taiwan Province of China,33.0,6.42199993133545,Saudi Arabia,33.0,6.371,Uruguay,33.0,6.293
+Thailand,34,6.455,Saudi Arabia,34.0,6.379,Spain,34.0,6.40299987792969,Singapore,34.0,6.343,Singapore,34.0,6.262
+Saudi Arabia,35,6.411,Taiwan,34.0,6.379,Qatar,35.0,6.375,Malaysia,35.0,6.322,El Salvador,35.0,6.253
+Spain,36,6.329,Qatar,36.0,6.375,Colombia,36.0,6.35699987411499,Spain,36.0,6.31,Italy,36.0,6.223
+Malta,37,6.302,Spain,37.0,6.361,Saudi Arabia,37.0,6.3439998626709,Colombia,37.0,6.26,Bahrain,37.0,6.199
+Taiwan,38,6.298,Algeria,38.0,6.355,Trinidad and Tobago,38.0,6.16800022125244,Trinidad & Tobago,38.0,6.192,Slovakia,38.0,6.198
+Kuwait,39,6.295,Guatemala,39.0,6.324,Kuwait,39.0,6.10500001907349,Slovakia,39.0,6.173,Trinidad & Tobago,39.0,6.192
+Suriname,40,6.269,Suriname,40.0,6.269,Slovakia,40.0,6.09800004959106,El Salvador,40.0,6.167,Poland,40.0,6.182
+Trinidad and Tobago,41,6.168,Kuwait,41.0,6.239,Bahrain,41.0,6.08699989318848,Nicaragua,41.0,6.141,Uzbekistan,41.0,6.174
+El Salvador,42,6.13,Bahrain,42.0,6.218,Malaysia,42.0,6.08400011062622,Poland,42.0,6.123,Lithuania,42.0,6.149
+Guatemala,43,6.123,Trinidad and Tobago,43.0,6.168,Nicaragua,43.0,6.07100009918213,Bahrain,43.0,6.105,Colombia,43.0,6.125
+Uzbekistan,44,6.003,Venezuela,44.0,6.084,Ecuador,44.0,6.00799989700317,Uzbekistan,44.0,6.096,Slovenia,44.0,6.118
+Slovakia,45,5.995,Slovakia,45.0,6.078,El Salvador,45.0,6.00299978256226,Kuwait,45.0,6.083,Nicaragua,45.0,6.105
+Japan,46,5.987,El Salvador,46.0,6.068,Poland,46.0,5.97300004959106,Thailand,46.0,6.072,Kosovo,46.0,6.1
+South Korea,47,5.984,Malaysia,47.0,6.005,Uzbekistan,47.0,5.97100019454956,Italy,47.0,6.0,Argentina,47.0,6.086
+Ecuador,48,5.975,Nicaragua,48.0,5.992,Italy,48.0,5.96400022506714,Ecuador,48.0,5.973,Romania,48.0,6.07
+Bahrain,49,5.96,Uzbekistan,49.0,5.987,Russia,49.0,5.96299982070923,Belize,49.0,5.956,Cyprus,49.0,6.046
+Italy,50,5.948,Italy,50.0,5.977,Belize,50.0,5.95599985122681,Lithuania,50.0,5.952,Ecuador,50.0,6.028
+Bolivia,51,5.89,Ecuador,51.0,5.976,Japan,51.0,5.92000007629395,Slovenia,51.0,5.948,Kuwait,51.0,6.021
+Moldova,52,5.889,Belize,52.0,5.956,Lithuania,52.0,5.90199995040894,Romania,52.0,5.945,Thailand,52.0,6.008
+Paraguay,53,5.878,Japan,53.0,5.921,Algeria,53.0,5.87200021743774,Latvia,53.0,5.933,Latvia,53.0,5.94
+Kazakhstan,54,5.855,Kazakhstan,54.0,5.919,Latvia,54.0,5.84999990463257,Japan,54.0,5.915,South Korea,54.0,5.895
+Slovenia,55,5.848,Moldova,55.0,5.897,South Korea,55.0,5.83799982070923,Mauritius,55.0,5.891,Estonia,55.0,5.893
+Lithuania,56,5.833,Russia,56.0,5.856,Moldova,56.0,5.83799982070923,Jamaica,56.0,5.89,Jamaica,56.0,5.89
+Nicaragua,57,5.828,Poland,57.0,5.835,Romania,57.0,5.82499980926514,South Korea,57.0,5.875,Mauritius,57.0,5.888
+Peru,58,5.824,South Korea,57.0,5.835,Bolivia,58.0,5.82299995422363,Northern Cyprus,58.0,5.835,Japan,58.0,5.886
+Belarus,59,5.813,Bolivia,59.0,5.822,Turkmenistan,59.0,5.82200002670288,Russia,59.0,5.81,Honduras,59.0,5.86
+Poland,60,5.791,Lithuania,60.0,5.813,Kazakhstan,60.0,5.81899976730347,Kazakhstan,60.0,5.79,Kazakhstan,60.0,5.809
+Malaysia,61,5.77,Belarus,61.0,5.802,North Cyprus,61.0,5.80999994277954,Cyprus,61.0,5.762,Bolivia,61.0,5.779
+Croatia,62,5.759,North Cyprus,62.0,5.771,Slovenia,62.0,5.75799989700317,Bolivia,62.0,5.752,Hungary,62.0,5.758
+Libya,63,5.754,Slovenia,63.0,5.768,Peru,63.0,5.71500015258789,Estonia,63.0,5.739,Paraguay,63.0,5.743
+Russia,64,5.716,Peru,64.0,5.743,Mauritius,64.0,5.62900018692017,Paraguay,64.0,5.681,Northern Cyprus,64.0,5.718
+Jamaica,65,5.709,Turkmenistan,65.0,5.658,Cyprus,65.0,5.62099981307983,Peru,65.0,5.663,Peru,65.0,5.697
+North Cyprus,66,5.695,Mauritius,66.0,5.648,Estonia,66.0,5.61100006103516,Kosovo,66.0,5.662,Portugal,66.0,5.693
+Cyprus,67,5.689,Libya,67.0,5.615,Belarus,67.0,5.56899976730347,Moldova,67.0,5.64,Pakistan,67.0,5.653
+Algeria,68,5.605,Latvia,68.0,5.56,Libya,68.0,5.52500009536743,Turkmenistan,68.0,5.636,Russia,68.0,5.648
+Kosovo,69,5.589,Cyprus,69.0,5.546,Turkey,69.0,5.5,Hungary,69.0,5.62,Philippines,69.0,5.631
+Turkmenistan,70,5.548,Paraguay,70.0,5.538,Paraguay,70.0,5.49300003051758,Libya,70.0,5.566,Serbia,70.0,5.603
+Mauritius,71,5.477,Romania,71.0,5.528,"Hong Kong S.A.R., China",71.0,5.47200012207031,Philippines,71.0,5.524,Moldova,71.0,5.529
+Hong Kong,72,5.474,Estonia,72.0,5.517,Philippines,72.0,5.42999982833862,Honduras,72.0,5.504,Libya,72.0,5.525
+Estonia,73,5.429,Jamaica,73.0,5.51,Serbia,73.0,5.39499998092651,Belarus,73.0,5.483,Montenegro,73.0,5.523
+Indonesia,74,5.399,Croatia,74.0,5.488,Jordan,74.0,5.33599996566772,Turkey,74.0,5.483,Tajikistan,74.0,5.467
+Vietnam,75,5.36,Hong Kong,75.0,5.458,Hungary,75.0,5.32399988174438,Pakistan,75.0,5.472,Croatia,75.0,5.432
+Turkey,76,5.332,Somalia,76.0,5.44,Jamaica,76.0,5.31099987030029,Hong Kong,76.0,5.43,Hong Kong,76.0,5.43
+Kyrgyzstan,77,5.286,Kosovo,77.0,5.401,Croatia,77.0,5.29300022125244,Portugal,77.0,5.41,Dominican Republic,77.0,5.425
+Nigeria,78,5.268,Turkey,78.0,5.389,Kosovo,78.0,5.27899980545044,Serbia,78.0,5.398,Bosnia and Herzegovina,78.0,5.386
+Bhutan,79,5.253,Indonesia,79.0,5.314,China,79.0,5.27299976348877,Greece,79.0,5.358,Turkey,79.0,5.373
+Azerbaijan,80,5.212,Jordan,80.0,5.303,Pakistan,80.0,5.26900005340576,Lebanon,80.0,5.358,Malaysia,80.0,5.339
+Pakistan,81,5.194,Azerbaijan,81.0,5.291,Indonesia,81.0,5.26200008392334,Montenegro,81.0,5.347,Belarus,81.0,5.323
+Jordan,82,5.192,Philippines,82.0,5.279,Venezuela,82.0,5.25,Croatia,82.0,5.321,Greece,82.0,5.287
+Montenegro,82,5.192,China,83.0,5.245,Montenegro,83.0,5.23699998855591,Dominican Republic,83.0,5.302,Mongolia,83.0,5.285
+China,84,5.14,Bhutan,84.0,5.196,Morocco,84.0,5.2350001335144,Algeria,84.0,5.295,North Macedonia,84.0,5.274
+Zambia,85,5.129,Kyrgyzstan,85.0,5.185,Azerbaijan,85.0,5.23400020599365,Morocco,85.0,5.254,Nigeria,85.0,5.265
+Romania,86,5.124,Serbia,86.0,5.177,Dominican Republic,86.0,5.23000001907349,China,86.0,5.246,Kyrgyzstan,86.0,5.261
+Serbia,87,5.123,Bosnia and Herzegovina,87.0,5.163,Greece,87.0,5.22700023651123,Azerbaijan,87.0,5.201,Turkmenistan,87.0,5.247
+Portugal,88,5.102,Montenegro,88.0,5.161,Lebanon,88.0,5.22499990463257,Tajikistan,88.0,5.199,Algeria,88.0,5.211
+Latvia,89,5.098,Dominican Republic,89.0,5.155,Portugal,89.0,5.19500017166138,Macedonia,89.0,5.185,Morocco,89.0,5.208
+Philippines,90,5.073,Morocco,90.0,5.151,Bosnia and Herzegovina,90.0,5.18200016021729,Jordan,90.0,5.161,Azerbaijan,90.0,5.208
+Somaliland region,91,5.057,Hungary,91.0,5.145,Honduras,91.0,5.18100023269653,Nigeria,91.0,5.155,Lebanon,91.0,5.197
+Morocco,92,5.013,Pakistan,92.0,5.132,Macedonia,92.0,5.17500019073486,Kyrgyzstan,92.0,5.131,Indonesia,92.0,5.192
+Macedonia,93,5.007,Lebanon,93.0,5.129,Somalia,93.0,5.15100002288818,Bosnia and Herzegovina,93.0,5.129,China,93.0,5.191
+Mozambique,94,4.971,Portugal,94.0,5.123,Vietnam,94.0,5.07399988174438,Mongolia,94.0,5.125,Vietnam,94.0,5.175
+Albania,95,4.959,Macedonia,95.0,5.121,Nigeria,95.0,5.07399988174438,Vietnam,95.0,5.103,Bhutan,95.0,5.082
+Bosnia and Herzegovina,96,4.949,Vietnam,96.0,5.061,Tajikistan,96.0,5.04099988937378,Indonesia,96.0,5.093,Cameroon,96.0,5.044
+Lesotho,97,4.898,Somaliland Region,97.0,5.057,Bhutan,97.0,5.01100015640259,Bhutan,97.0,5.082,Bulgaria,97.0,5.011
+Dominican Republic,98,4.885,Tunisia,98.0,5.045,Kyrgyzstan,98.0,5.00400018692017,Somalia,98.0,4.982,Ghana,98.0,4.996
+Laos,99,4.876,Greece,99.0,5.033,Nepal,99.0,4.96199989318848,Cameroon,99.0,4.975,Ivory Coast,99.0,4.944
+Mongolia,100,4.874,Tajikistan,100.0,4.996,Mongolia,100.0,4.95499992370605,Bulgaria,100.0,4.933,Nepal,100.0,4.913
+Swaziland,101,4.867,Mongolia,101.0,4.907,South Africa,101.0,4.8289999961853,Nepal,101.0,4.88,Jordan,101.0,4.906
+Greece,102,4.857,Laos,102.0,4.876,Tunisia,102.0,4.80499982833862,Venezuela,102.0,4.806,Benin,102.0,4.883
+Lebanon,103,4.839,Nigeria,103.0,4.875,Palestinian Territories,103.0,4.77500009536743,Gabon,103.0,4.758,Congo (Brazzaville),103.0,4.812
+Hungary,104,4.8,Honduras,104.0,4.871,Egypt,104.0,4.7350001335144,Palestinian Territories,104.0,4.743,Gabon,104.0,4.799
+Honduras,105,4.788,Iran,105.0,4.813,Bulgaria,105.0,4.71400022506714,South Africa,105.0,4.724,Laos,105.0,4.796
+Tajikistan,106,4.786,Zambia,106.0,4.795,Sierra Leone,106.0,4.70900011062622,Iran,106.0,4.707,South Africa,106.0,4.722
+Tunisia,107,4.739,Nepal,107.0,4.793,Cameroon,107.0,4.69500017166138,Ivory Coast,107.0,4.671,Albania,107.0,4.719
+Palestinian Territories,108,4.715,Palestinian Territories,108.0,4.754,Iran,108.0,4.69199991226196,Ghana,108.0,4.657,Venezuela,108.0,4.707
+Bangladesh,109,4.694,Albania,109.0,4.655,Albania,109.0,4.64400005340576,Senegal,109.0,4.631,Cambodia,109.0,4.7
+Iran,110,4.686,Bangladesh,110.0,4.643,Bangladesh,110.0,4.60799980163574,Laos,110.0,4.623,Palestinian Territories,110.0,4.696
+Ukraine,111,4.681,Sierra Leone,111.0,4.635,Namibia,111.0,4.57399988174438,Tunisia,111.0,4.592,Senegal,111.0,4.681
+Iraq,112,4.677,Iraq,112.0,4.575,Kenya,112.0,4.55299997329712,Albania,112.0,4.586,Somalia,112.0,4.668
+South Africa,113,4.642,Namibia,113.0,4.574,Mozambique,113.0,4.55000019073486,Sierra Leone,113.0,4.571,Namibia,113.0,4.639
+Ghana,114,4.633,Cameroon,114.0,4.513,Myanmar,114.0,4.54500007629395,Congo (Brazzaville),114.0,4.559,Niger,114.0,4.628
+Zimbabwe,115,4.61,Ethiopia,115.0,4.508,Senegal,115.0,4.53499984741211,Bangladesh,115.0,4.5,Burkina Faso,115.0,4.587
+Liberia,116,4.571,South Africa,116.0,4.459,Zambia,116.0,4.51399993896484,Sri Lanka,116.0,4.471,Armenia,116.0,4.559
+India,117,4.565,Sri Lanka,117.0,4.415,Iraq,117.0,4.49700021743774,Iraq,117.0,4.456,Iran,117.0,4.548
+Sudan,118,4.55,India,118.0,4.404,Gabon,118.0,4.46500015258789,Mali,118.0,4.447,Guinea,118.0,4.534
+Haiti,119,4.518,Myanmar,119.0,4.395,Ethiopia,119.0,4.46000003814697,Namibia,119.0,4.441,Georgia,119.0,4.519
+Congo (Kinshasa),120,4.517,Egypt,120.0,4.362,Sri Lanka,120.0,4.44000005722046,Cambodia,120.0,4.433,Gambia,120.0,4.516
+Nepal,121,4.514,Armenia,121.0,4.36,Armenia,121.0,4.37599992752075,Burkina Faso,121.0,4.424,Kenya,121.0,4.509
+Ethiopia,122,4.512,Kenya,122.0,4.356,India,122.0,4.31500005722046,Egypt,122.0,4.419,Mauritania,122.0,4.49
+Sierra Leone,123,4.507,Ukraine,123.0,4.324,Mauritania,123.0,4.29199981689453,Mozambique,123.0,4.417,Mozambique,123.0,4.466
+Mauritania,124,4.436,Ghana,124.0,4.276,Congo (Brazzaville),124.0,4.29099988937378,Kenya,124.0,4.41,Tunisia,124.0,4.461
+Kenya,125,4.419,Congo (Kinshasa),125.0,4.272,Georgia,125.0,4.28599977493286,Zambia,125.0,4.377,Bangladesh,125.0,4.456
+Djibouti,126,4.369,Georgia,126.0,4.252,Congo (Kinshasa),126.0,4.28000020980835,Mauritania,126.0,4.356,Iraq,126.0,4.437
+Armenia,127,4.35,Congo (Brazzaville),127.0,4.236,Mali,127.0,4.19000005722046,Ethiopia,127.0,4.35,Congo (Kinshasa),127.0,4.418
+Botswana,128,4.332,Senegal,128.0,4.219,Ivory Coast,128.0,4.17999982833862,Georgia,128.0,4.34,Mali,128.0,4.39
+Myanmar,129,4.307,Bulgaria,129.0,4.217,Cambodia,129.0,4.16800022125244,Armenia,129.0,4.321,Sierra Leone,129.0,4.374
+Georgia,130,4.297,Mauritania,130.0,4.201,Sudan,130.0,4.13899993896484,Myanmar,130.0,4.308,Sri Lanka,130.0,4.366
+Malawi,131,4.292,Zimbabwe,131.0,4.193,Ghana,131.0,4.11999988555908,Chad,131.0,4.301,Myanmar,131.0,4.36
+Sri Lanka,132,4.271,Malawi,132.0,4.156,Ukraine,132.0,4.09600019454956,Congo (Kinshasa),132.0,4.245,Chad,132.0,4.35
+Cameroon,133,4.252,Sudan,133.0,4.139,Uganda,133.0,4.08099985122681,India,133.0,4.19,Ukraine,133.0,4.332
+Bulgaria,134,4.218,Gabon,134.0,4.121,Burkina Faso,134.0,4.03200006484985,Niger,134.0,4.166,Ethiopia,134.0,4.286
+Egypt,135,4.194,Mali,135.0,4.073,Niger,135.0,4.02799987792969,Uganda,135.0,4.161,Swaziland,135.0,4.212
+Yemen,136,4.077,Haiti,136.0,4.028,Malawi,136.0,3.97000002861023,Benin,136.0,4.141,Uganda,136.0,4.189
+Angola,137,4.033,Botswana,137.0,3.974,Chad,137.0,3.93600010871887,Sudan,137.0,4.139,Egypt,137.0,4.166
+Mali,138,3.995,Comoros,138.0,3.956,Zimbabwe,138.0,3.875,Ukraine,138.0,4.103,Zambia,138.0,4.107
+Congo (Brazzaville),139,3.989,Ivory Coast,139.0,3.916,Lesotho,139.0,3.80800008773804,Togo,139.0,3.999,Togo,139.0,4.085
+Comoros,140,3.956,Cambodia,140.0,3.907,Angola,140.0,3.79500007629395,Guinea,140.0,3.964,India,140.0,4.015
+Uganda,141,3.931,Angola,141.0,3.866,Afghanistan,141.0,3.79399991035461,Lesotho,141.0,3.808,Liberia,141.0,3.975
+Senegal,142,3.904,Niger,142.0,3.856,Botswana,142.0,3.76600003242493,Angola,142.0,3.795,Comoros,142.0,3.973
+Gabon,143,3.896,South Sudan,143.0,3.832,Benin,143.0,3.65700006484985,Madagascar,143.0,3.774,Madagascar,143.0,3.933
+Niger,144,3.845,Chad,144.0,3.763,Madagascar,144.0,3.64400005340576,Zimbabwe,144.0,3.692,Lesotho,144.0,3.802
+Cambodia,145,3.819,Burkina Faso,145.0,3.739,Haiti,145.0,3.6029999256134,Afghanistan,145.0,3.632,Burundi,145.0,3.775
+Tanzania,146,3.781,Uganda,145.0,3.739,Yemen,146.0,3.59299993515015,Botswana,146.0,3.59,Zimbabwe,146.0,3.663
+Madagascar,147,3.681,Yemen,147.0,3.724,South Sudan,147.0,3.59100008010864,Malawi,147.0,3.587,Haiti,147.0,3.597
+Central African Republic,148,3.678,Madagascar,148.0,3.695,Liberia,148.0,3.53299999237061,Haiti,148.0,3.582,Botswana,148.0,3.488
+Chad,149,3.667,Tanzania,149.0,3.666,Guinea,149.0,3.50699996948242,Liberia,149.0,3.495,Syria,149.0,3.462
+Guinea,150,3.656,Liberia,150.0,3.622,Togo,150.0,3.49499988555908,Syria,150.0,3.462,Malawi,150.0,3.41
+Ivory Coast,151,3.655,Guinea,151.0,3.607,Rwanda,151.0,3.47099995613098,Rwanda,151.0,3.408,Yemen,151.0,3.38
+Burkina Faso,152,3.587,Rwanda,152.0,3.515,Syria,152.0,3.46199989318848,Yemen,152.0,3.355,Rwanda,152.0,3.334
+Afghanistan,153,3.575,Benin,153.0,3.484,Tanzania,153.0,3.34899997711182,Tanzania,153.0,3.303,Tanzania,153.0,3.231
+Rwanda,154,3.465,Afghanistan,154.0,3.36,Burundi,154.0,2.90499997138977,South Sudan,154.0,3.254,Afghanistan,154.0,3.203
+Benin,155,3.34,Togo,155.0,3.303,Central African Republic,155.0,2.69300007820129,Central African Republic,155.0,3.083,Central African Republic,155.0,3.083
+Syria,156,3.006,Syria,156.0,3.069,,,,Burundi,156.0,2.905,South Sudan,156.0,2.853
+Burundi,157,2.905,Burundi,157.0,2.905,,,,,,,,,
+Togo,158,2.839,,,,,,,,,,,,
